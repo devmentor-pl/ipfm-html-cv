@@ -1,0 +1,8 @@
+---
+ name: Is programming for me – CV in HTML
+ description: Learn HTML by creating CV
+ authors:
+   - Anna Buller
+   - Mateusz Bogolubow
+ normalize_css: no
+ load_type: d
